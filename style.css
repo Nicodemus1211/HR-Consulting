@@ -53,3 +53,6 @@ footer {
 .akhir {
   display: flex;
 }
+.wave {
+  background-image: url("Vector 1.png");
+}
